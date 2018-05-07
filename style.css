@@ -1,0 +1,23 @@
+
+		a:link, a:active, a:visited, a:hover{ text-decoration:  none; }
+		a:link, a:active, a:visited { color: black; }
+
+		nav{margin-top: 60px; width:150px; height: 390px; position: fixed; left:calc(50% - 640px);}
+		nav #logo{width:150px; height:45px; padding-top:10px;}
+		nav #logo a{display:block; text-align:center; line-height:5px ; height:45px;}
+		nav #logo img{padding-top:5px; height:25px; overflow:hidden; }
+		nav #menuList{margin:0; padding:0;}
+		nav #menuList div{height:0px;}
+		nav #menuList .main-menu-item{font-family: 'Righteous', cursive; list-style:none; width: 150px; height:45px;}
+		nav #menuList a{display:block; height:45px; text-align:center; line-height:45px;}
+		nav #menuList a:hover {color:white; background: black;}
+		.black {margin:auto; background: gray; width:1280px; }
+		.black img{width:1280px;}
+
+		#footer{width:1280px; height:80px; margin:auto; background: white;
+			line-height: 80px;}
+		#footer p{font-family: 'Righteous', cursive; text-align: center; width:1280px; height:45px; margin:auto; background: white;
+			line-height: 80px; font-size:1.5em; color:grey;}
+		#pika{left:calc(50% - 440px); position: absolute; top:90px; width:870px; float:left;}
+		#pikaMenu{float:left; display:block; width:230px; height:250px; margin-right:60px; margin-bottom:20px;}
+		.link{width:230px; height:250px; margin-right:60px; margin-bottom:20px;}
