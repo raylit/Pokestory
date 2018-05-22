@@ -16,7 +16,7 @@
 
 		#footer{width:1280px; height:80px; margin:auto; background: white;
 			line-height: 80px;}
-		#footer p{font-family: 'Righteous', cursive; text-align: center; width:1280px; height:45px; margin:auto; background: white;
+		#footer h1{font-family: 'Righteous', cursive; text-align: center; width:1280px; height:45px; margin:auto; background: white;
 			line-height: 80px; font-size:1.5em; color:grey;}
 		#pika{left:calc(50% - 440px); position: absolute; top:90px; width:870px; float:left;}
 		#pikaMenu{float:left; display:block; width:230px; height:250px; margin-right:60px; margin-bottom:20px;}
