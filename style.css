@@ -14,6 +14,8 @@
 		.black {margin:auto; background: gray; width:1280px; }
 		.black img{width:1280px;}
 
+		iframe{position:absolute; top:7603px; left:342px;}
+
 		#footer{width:1280px; height:80px; margin:auto; background: white;
 			line-height: 80px;}
 		#footer h1{font-family: 'Righteous', cursive; text-align: center; width:1280px; height:45px; margin:auto; background: white;
